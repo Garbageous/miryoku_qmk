@@ -25,3 +25,5 @@ SPLIT_KEYBOARD = yes
 
 SERIAL_DRIVER = vendor
 WS2812_DRIVER = vendor
+
+CAPS_WORD_ENABLE = yes
